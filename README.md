@@ -1,17 +1,17 @@
-﻿# 🎮 Exodus Hub
+# 🎮 Exodus Hub
 
 <div align="center">
 
 **The universal game launcher and frontend for PC, handhelds (ROG Ally, Legion Go), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.1.0--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest)
+[![Release](https://img.shields.io/github/v/release/henriquearsenio/exodus-hub-releases?color=orange&label=Latest%20Release&style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest)
 [![Built with Vibecoding](https://img.shields.io/badge/Built%20with-Vibecoding-8A2BE2.svg?style=for-the-badge)](https://github.com/henriquearsenio/exodus-hub-releases)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.1.0-beta)](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest)
+### 📥 [Download Latest Release from Releases Hub](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest)
 
 </div>
 
@@ -19,10 +19,13 @@
 
 ## ⚡ Downloads
 
-| Package | File | Details |
+| Package | Recommended For | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.1.0-beta.exe**](https://github.com/henriquearsenio/exodus-hub-releases/releases/download/v0.1.0-beta/Exodus-Hub-Setup-0.1.0-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **built-in automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-0.1.0-beta.exe**](https://github.com/henriquearsenio/exodus-hub-releases/releases/download/v0.1.0-beta/Exodus-Hub-0.1.0-beta.exe) | Single standalone `.exe` — run straight from any folder or USB drive with zero installation required. |
+| 📦 **[Windows Installer](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest)** | **Most Users (Recommended)** | Standard Windows installer (`Setup.exe`) with Start Menu & Desktop shortcuts. Includes **built-in automatic background update notifications**. |
+| 💼 **[Portable Version](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest)** | **USB Drives & No-Install Setups** | Single standalone `.exe` — run straight from any folder with zero installation required. |
+
+> [!TIP]
+> Visit the [Official Releases Page](https://github.com/henriquearsenio/exodus-hub-releases/releases/latest) to download the latest setup and portable binaries.
 
 ---
 
@@ -67,6 +70,7 @@ Pulls installed titles locally with zero account linking:
 
 ### 🎮 Built for Controllers & Handhelds
 * Complete gamepad navigation (D-pad and analog stick support).
+* **Responsive Handheld Scaling**: Intelligent adaptive UI scaling for 1080p displays with 150% Windows DPI scaling (ROG Ally / Legion Go).
 * **On-Screen Keyboard (OSK)**: Search your library using your controller or touchscreen without triggering the intrusive Windows touch keyboard.
 * Dynamic controller glyphs (switch between Xbox and PlayStation button styles).
 * Quick power management modal (Sleep, Restart, Shut Down, or return to Desktop).
