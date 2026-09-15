@@ -34,8 +34,28 @@ No login credentials required. Exodus Hub works locally by scanning your system'
 
 It features two distinct modes designed for how you play:
 
-1. **🖥️ Desktop Mode**: Designed for mouse and keyboard. Browse your library with flexible grid or list views, sort and filter by launcher or custom collections, and customize game launch arguments and metadata.
-2. **📺 Big Picture Mode**: A cinematic, controller-first interface built from the ground up for couch gaming on TVs and Windows handhelds (**ASUS ROG Ally**, **Lenovo Legion Go**, **Steam Deck running Windows**, and mini-PCs).
+<br/>
+
+### 📺 1. Big Picture Mode (Consoles, TVs & Handhelds)
+
+A cinematic, controller-first interface built from the ground up for couch gaming on TVs and Windows handhelds (**ASUS ROG Ally**, **Lenovo Legion Go**, **Steam Deck running Windows**, and mini-PCs). Features instant 180ms ease-out cubic transitions, native PlayStation DualSense / Xbox controller support, and zero-shift card layout stability.
+
+<p align="center">
+  <img src="screenshots/bigpicture-mode.png" alt="Exodus Hub - Big Picture Mode" width="100%" />
+</p>
+
+<br/>
+
+### 🖥️ 2. Desktop Mode (Mouse & Keyboard)
+
+Designed for precision management with your mouse and keyboard. Seamlessly toggle between high-resolution poster cards or dense list details:
+
+| 🎨 Grid View (Poster Art) | 📋 List View (Backdrop & Details) |
+| :---: | :---: |
+| <img src="screenshots/desktop-grid.png" alt="Exodus Hub - Desktop Grid View" width="100%" /> | <img src="screenshots/desktop-list.png" alt="Exodus Hub - Desktop List View" width="100%" /> |
+| *Visual card grid with customizable zoom slider, SteamGridDB covers, and category filter chips.* | *Quick sidebar navigation, full backdrop art, synopsis, session dates, playtime counter, and instant launch.* |
+
+<br/>
 
 ---
 
