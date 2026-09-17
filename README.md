@@ -4,14 +4,14 @@
 
 **The universal game launcher and frontend for PC, handhelds (ROG Ally, Legion Go), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.1.3--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.1.4--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Built with Vibecoding](https://img.shields.io/badge/Built%20with-Vibecoding-8A2BE2.svg?style=for-the-badge)](https://github.com/henriquearsenio/exodus-hub)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.1.3-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.1.4-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -21,8 +21,8 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.1.3-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.1.3-beta/Exodus-Hub-Setup-0.1.3-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **built-in automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-0.1.3-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.1.3-beta/Exodus-Hub-0.1.3-beta.exe) | Single standalone `.exe` — run straight from any folder or USB drive with zero installation required. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.1.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.1.4-beta/Exodus-Hub-Setup-0.1.4-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **built-in automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-0.1.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.1.4-beta/Exodus-Hub-0.1.4-beta.exe) | Single standalone `.exe` — run straight from any folder or USB drive with zero installation required. |
 
 ---
 
