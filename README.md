@@ -4,13 +4,13 @@
 
 **The modern game launcher and frontend for PC, handhelds (ROG Ally, Legion Go, Steam Deck), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.2.1--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.2--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.2.1-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.2-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -20,8 +20,8 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.1-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.1-beta/Exodus-Hub-Setup-0.2.1-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.1-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.1-beta/Exodus-Hub-Portable-0.2.1-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.2-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.2-beta/Exodus-Hub-Setup-0.2.2-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.2-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.2-beta/Exodus-Hub-Portable-0.2.2-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
