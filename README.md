@@ -21,7 +21,7 @@
 | Package | File | Details |
 |:---|:---|:---|
 | 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.0-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.0-beta/Exodus-Hub-Setup-0.2.0-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-0.2.0-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.0-beta/Exodus-Hub-0.2.0-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.0-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.0-beta/Exodus-Hub-Portable-0.2.0-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
@@ -129,3 +129,4 @@ Exodus Hub is completely free and independently developed. If you enjoy using it
 <div align="center">
 Crafted for PC gamers by Henrique Arsenio.
 </div>
+
