@@ -4,14 +4,14 @@
 
 **The universal game launcher and frontend for PC, handhelds (ROG Ally, Legion Go), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.1.4--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.0--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Built with Vibecoding](https://img.shields.io/badge/Built%20with-Vibecoding-8A2BE2.svg?style=for-the-badge)](https://github.com/henriquearsenio/exodus-hub)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.1.4-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.0-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -21,8 +21,8 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.1.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.1.4-beta/Exodus-Hub-Setup-0.1.4-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **built-in automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-0.1.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.1.4-beta/Exodus-Hub-0.1.4-beta.exe) | Single standalone `.exe` — run straight from any folder or USB drive with zero installation required. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.0-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.0-beta/Exodus-Hub-Setup-0.2.0-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **built-in automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-0.2.0-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.0-beta/Exodus-Hub-0.2.0-beta.exe) | Single standalone `.exe` — run straight from any folder or USB drive with zero installation required. |
 
 ---
 
@@ -38,7 +38,7 @@ It features two distinct modes designed for how you play:
 
 ### 📺 1. Big Picture Mode (Consoles, TVs & Handhelds)
 
-A cinematic, controller-first interface built from the ground up for couch gaming on TVs and Windows handhelds (**ASUS ROG Ally**, **Lenovo Legion Go**, **Steam Deck running Windows**, and mini-PCs). Features instant 180ms ease-out cubic transitions, native PlayStation DualSense / Xbox controller support, and zero-shift card layout stability.
+A cinematic, controller-first interface built from the ground up for couch gaming on TVs and Windows handhelds (**ASUS ROG Ally**, **Lenovo Legion Go**, **Steam Deck running Windows**, and mini-PCs). Features instant 180ms ease-out cubic transitions, native PlayStation DualSense / Xbox controller support, zero-shift card layout stability, and **100% autonomous operation** — configure SteamGridDB API keys, manage custom collections, and add emulators directly using your gamepad.
 
 <p align="center">
   <img src="screenshots/bigpicture-mode.png" alt="Exodus Hub - Big Picture Mode" width="100%" />
@@ -53,7 +53,7 @@ Designed for precision management with your mouse and keyboard. Seamlessly toggl
 | 🎨 Grid View (Poster Art) | 📋 List View (Backdrop & Details) |
 | :---: | :---: |
 | <img src="screenshots/desktop-grid.png" alt="Exodus Hub - Desktop Grid View" width="100%" /> | <img src="screenshots/desktop-list.png" alt="Exodus Hub - Desktop List View" width="100%" /> |
-| *Visual card grid with customizable zoom slider, SteamGridDB covers, and category filter chips.* | *Quick sidebar navigation, full backdrop art, synopsis, session dates, playtime counter, and instant launch.* |
+| *Visual card grid with fluid 60fps interpolated zoom slider, SteamGridDB covers, and category filter chips.* | *Quick sidebar navigation, full backdrop art, synopsis, session dates, playtime counter, and instant launch.* |
 
 <br/>
 
@@ -73,7 +73,8 @@ Pulls installed titles locally with zero account linking:
 * **Standalone / Manual Executables** (add any `.exe` with custom parameters)
 
 ### 🕹️ Built-in Emulator Support (Retro Gaming)
-* Pre-configured presets for popular emulators: **RetroArch**, **PCSX2** (PS2), **Dolphin** (GameCube/Wii), **DuckStation** (PS1), **PPSSPP** (PSP), **RPCS3** (PS3), **Ryujinx** (Switch), and **Cemu** (Wii U).
+* Pre-configured presets for 15+ popular emulators: **RetroArch**, **PCSX2** (PS2), **Dolphin** (GameCube/Wii), **DuckStation** (PS1), **PPSSPP** (PSP), **RPCS3** (PS3), **Ryujinx** (Switch), **Cemu** (Wii U), **Xenia** (Xbox 360), **Citra / Lime3DS** (3DS), **MelonDS** (NDS), **mGBA** (GBA), **Vita3K** (PS Vita), **Flycast** (Dreamcast), and **MAME** (Arcade).
+* Native directory and executable pickers directly from Big Picture and Desktop settings.
 * Recursive ROM folder scanning with automatic title cleaning (`.iso`, `.chd`, `.rvz`, `.nsp`, etc.).
 * Launches ROMs directly using proper emulator command-line arguments.
 
