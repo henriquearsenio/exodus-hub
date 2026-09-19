@@ -4,13 +4,13 @@
 
 **The modern game launcher and frontend for PC, handhelds (ROG Ally, Legion Go, Steam Deck), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.2.3--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.4--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.2.3-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.4-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -20,21 +20,22 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.3-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.3-beta/Exodus-Hub-Setup-0.2.3-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.3-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.3-beta/Exodus-Hub-Portable-0.2.3-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.4-beta/Exodus-Hub-Setup-0.2.4-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.4-beta/Exodus-Hub-Portable-0.2.4-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
-## 🚀 What's New in v0.2.3-beta
+## 🚀 What's New in v0.2.4-beta
 
+- 🎮 **Interactive Center Update Modal**: Centered prompt automatically takes focus when a new version finishes downloading, asking whether you want to restart now or postpone.
+- 🕹️ **100% Controller Navigable in Big Picture**: Seamlessly toggle between choices with the D-pad/stick, press `(A)` to confirm restart, or `(B)` to postpone.
+- 📥 **Streamlined Background Download Toast**: Subtle corner toast displays download progress and percentage, quietly yielding to the modal once ready.
 - 🇵🇱 **Polish (Polski) Localization**: Full in-app translation, flag asset, localized genres, regional scraper support, and date formats across Desktop and Big Picture.
-- ⚡ **Official Launcher Protocols & Entitlements**: Upgraded integration for EA App and Xbox Game Pass using native launch protocols with multi-offer resolution, resolving permission and anti-cheat conflicts.
+- ⚡ **Official Launcher Protocols & Entitlements**: Upgraded integration for EA App and Xbox Game Pass using native launch protocols with multi-offer resolution.
 - 🔄 **Multi-Stage Process Monitoring**: Seamlessly tracks games with multi-stage bootstrappers or intermediate binaries with intelligent process transition tolerance.
 - 🛡️ **Active Kill Sentinel on Launch Abort**: Aborting a launch from the splash screen engages an active sentinel that halts any late-spawning processes before they can open.
-- ☁️ **Automatic Launcher Shutdown with Cloud Save Protection**: Automatically exit third-party launchers after gaming with a customizable delay (15s–60s) to guarantee cloud saves and achievements sync safely.
-- 🪟 **Silent Launcher Minimization**: External launchers are automatically minimized in the background on launch, keeping your screen and Big Picture experience distraction-free.
-- 📱 **Handheld & Big Picture Layout Refinements**: Redesigned options menu with flexible text wrapping, preventing button clipping on 7" handheld displays (ROG Ally, Legion Go, Steam Deck).
-- 🔧 **Retroactive Library Auto-Repair**: Existing libraries automatically receive updated launch commands and detection routines at startup without requiring a re-scan.
+- ☁️ **Automatic Launcher Shutdown with Cloud Save Protection**: Automatically exit third-party launchers after gaming with a customizable delay (15s–60s) to guarantee cloud saves sync safely.
+- 📱 **Handheld & Big Picture Layout Refinements**: Redesigned options menu preventing button clipping on 7" handheld displays (ROG Ally, Legion Go, Steam Deck).
 
 ---
 
