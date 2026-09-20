@@ -27,13 +27,14 @@
 
 ## 🚀 What's New in v0.2.5-beta
 
-- 🎮 **Interactive Center Update Modal**: Centered prompt automatically takes focus when a new version finishes downloading, asking whether you want to restart now or postpone — fully navigable with a controller (`(A)` to restart, `(B)` to postpone).
-- ⚙️ **Unified Settings & Form Protection**: Identical 11-tab sequence across Desktop and Big Picture with instant auto-save for general options and an unsaved changes confirmation prompt when editing emulators, collections, or API keys.
-- 🔑 **Complete SteamGridDB Navigation in Big Picture**: Full gamepad support to enter, toggle visibility, and save your SteamGridDB API key directly from couch mode.
-- 🚀 **Resilient Game Launching & Process Handoff**: Extended handoff tolerance (100s) for heavy launchers (e.g. EA SPORTS FC), clean tracking without accidental process kills, and reliable post-game launcher minimization.
-- 🛡️ **Library Hardening & Automatic Backup Recovery**: Hardened atomic writes with automatic backup restoration ensuring your collection and customizations are always preserved.
-- 📋 **One-Click Diagnostic Report**: Quickly copy system version, launcher detection status, and metrics to clipboard from the About tab for easy troubleshooting.
-- 🌐 **Complete Multi-Language Support**: Full localization across all interface tabs, settings, diagnostics, genres, and regional scrapers in English, Portuguese, Spanish, and Polish.
+- ⚙️ **Unified Settings Architecture (11 Categories)**: Total parity and identical 11-tab sequence across Desktop and Big Picture (General, Interface, Audio, Game & Performance, Controllers, Collections, Emulators, Ignored Games, Integrations, Storage/Backup, and About) with instant auto-save.
+- 🛡️ **Unsaved Changes Protection**: Smart confirmation dialog prevents accidental loss of edits when navigating away from configuration forms (Emulators, Collections, SteamGridDB API key).
+- 🔑 **Couch-Friendly SteamGridDB Setup**: Full 2D spatial gamepad navigation in Big Picture to input, reveal/hide, and save your SteamGridDB API key without needing a mouse.
+- 🚀 **Resilient Game Launching & Process Handoff**: Extended handoff tolerance (100s) for heavy launchers with anticheats (e.g. EA SPORTS FC), safe process tracking, and automatic post-game EA App minimization.
+- 🛡️ **Library Persistence & Recovery Hardening**: Atomic writes for `exodus_library.json` with `.bak` corruption immunity, transactional pre-import snapshots with automatic rollback, and dual-corruption safety.
+- 🔒 **Media Cache SSRF Hardening**: Strict redirect validation (manual 3xx hops), fail-closed DNS resolution, private/loopback IP blocking, raster-only format checks, and a 20 MB size limit.
+- 📋 **One-Click Diagnostic Report**: Quickly copy sanitized system version, launcher detection status, and metrics to clipboard from the About tab for easy troubleshooting.
+- 🌐 **Complete Multi-Language Localization**: Full translation parity across all interface tabs, settings, diagnostics, genres, and scrapers in English, Portuguese, Spanish, and Polish.
 
 ---
 
