@@ -4,13 +4,13 @@
 
 **The modern game launcher and frontend for PC, handhelds (ROG Ally, Legion Go, Steam Deck), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.2.5--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.6--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.2.5-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.6-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -20,21 +20,16 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.5-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.5-beta/Exodus-Hub-Setup-0.2.5-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.5-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.5-beta/Exodus-Hub-Portable-0.2.5-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.6-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.6-beta/Exodus-Hub-Setup-0.2.6-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.6-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.6-beta/Exodus-Hub-Portable-0.2.6-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
-## 🚀 What's New in v0.2.5-beta
+## 🚀 What's New in v0.2.6-beta
 
-- ⚙️ **Unified Settings Architecture (11 Categories)**: Total parity and identical 11-tab sequence across Desktop and Big Picture (General, Interface, Audio, Game & Performance, Controllers, Collections, Emulators, Ignored Games, Integrations, Storage/Backup, and About) with instant auto-save.
-- 🛡️ **Unsaved Changes Protection**: Smart confirmation dialog prevents accidental loss of edits when navigating away from configuration forms (Emulators, Collections, SteamGridDB API key).
-- 🔑 **Couch-Friendly SteamGridDB Setup**: Full 2D spatial gamepad navigation in Big Picture to input, reveal/hide, and save your SteamGridDB API key without needing a mouse.
-- 🚀 **Resilient Game Launching & Process Handoff**: Extended handoff tolerance (100s) for heavy launchers with anticheats (e.g. EA SPORTS FC), safe process tracking, and automatic post-game EA App minimization.
-- 🛡️ **Library Persistence & Recovery Hardening**: Atomic writes for `exodus_library.json` with `.bak` corruption immunity, transactional pre-import snapshots with automatic rollback, and dual-corruption safety.
-- 🔒 **Media Cache SSRF Hardening**: Strict redirect validation (manual 3xx hops), fail-closed DNS resolution, private/loopback IP blocking, raster-only format checks, and a 20 MB size limit.
-- 📋 **One-Click Diagnostic Report**: Quickly copy sanitized system version, launcher detection status, and metrics to clipboard from the About tab for easy troubleshooting.
-- 🌐 **Complete Multi-Language Localization**: Full translation parity across all interface tabs, settings, diagnostics, genres, and scrapers in English, Portuguese, Spanish, and Polish.
+- 🔄 **Streamlined Two-Button Update Dialog**: Clean layout featuring only two direct buttons ("Restart Now" and "Later"), completely free of oversized controller glyphs or button arts.
+- ⏭️ **Skip This Version Option**: New checkbox to easily silence update prompts for the current version until the next release is published.
+- 📜 **Quick Changelog Access**: Direct button to view release notes and what changed before deciding to update.
 
 ---
 
