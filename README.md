@@ -27,15 +27,13 @@
 
 ## 🚀 What's New in v0.2.4-beta
 
-- 🎮 **Interactive Center Update Modal**: Centered prompt automatically takes focus when a new version finishes downloading, asking whether you want to restart now or postpone.
-- 🕹️ **100% Controller Navigable in Big Picture**: Seamlessly toggle between choices with the D-pad/stick, press `(A)` to confirm restart, or `(B)` to postpone.
-- 📥 **Streamlined Background Download Toast**: Subtle corner toast displays download progress and percentage, quietly yielding to the modal once ready.
-- 🇵🇱 **Polish (Polski) Localization**: Full in-app translation, flag asset, localized genres, regional scraper support, and date formats across Desktop and Big Picture.
-- ⚡ **Official Launcher Protocols & Entitlements**: Upgraded integration for EA App and Xbox Game Pass using native launch protocols with multi-offer resolution.
-- 🔄 **Multi-Stage Process Monitoring**: Seamlessly tracks games with multi-stage bootstrappers or intermediate binaries with intelligent process transition tolerance.
-- 🛡️ **Active Kill Sentinel on Launch Abort**: Aborting a launch from the splash screen engages an active sentinel that halts any late-spawning processes before they can open.
-- ☁️ **Automatic Launcher Shutdown with Cloud Save Protection**: Automatically exit third-party launchers after gaming with a customizable delay (15s–60s) to guarantee cloud saves sync safely.
-- 📱 **Handheld & Big Picture Layout Refinements**: Redesigned options menu preventing button clipping on 7" handheld displays (ROG Ally, Legion Go, Steam Deck).
+- 🎮 **Interactive Center Update Modal**: Centered prompt automatically takes focus when a new version finishes downloading, asking whether you want to restart now or postpone — fully navigable with a controller (`(A)` to restart, `(B)` to postpone).
+- ⚙️ **Unified Settings & Form Protection**: Identical 11-tab sequence across Desktop and Big Picture with instant auto-save for general options and an unsaved changes confirmation prompt when editing emulators, collections, or API keys.
+- 🔑 **Complete SteamGridDB Navigation in Big Picture**: Full gamepad support to enter, toggle visibility, and save your SteamGridDB API key directly from couch mode.
+- 🚀 **Resilient Game Launching & Process Handoff**: Extended handoff tolerance (100s) for heavy launchers (e.g. EA SPORTS FC), clean tracking without accidental process kills, and reliable post-game launcher minimization.
+- 🛡️ **Library Hardening & Automatic Backup Recovery**: Hardened atomic writes with automatic backup restoration ensuring your collection and customizations are always preserved.
+- 📋 **One-Click Diagnostic Report**: Quickly copy system version, launcher detection status, and metrics to clipboard from the About tab for easy troubleshooting.
+- 🇵🇱 **Complete Polish (Polski) Localization**: Full in-app translation, flag asset, localized genres, and regional scraper support across Desktop and Big Picture.
 
 ---
 
@@ -143,4 +141,3 @@ Exodus Hub is completely free and independently developed. If you enjoy using it
 <div align="center">
 Crafted for PC gamers by Henrique Arsenio.
 </div>
-
