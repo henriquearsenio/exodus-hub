@@ -4,13 +4,13 @@
 
 **The modern game launcher and frontend for PC, handhelds (ROG Ally, Legion Go, Steam Deck), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.2.4--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.5--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.2.4-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.5-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -20,12 +20,12 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.4-beta/Exodus-Hub-Setup-0.2.4-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.4-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.4-beta/Exodus-Hub-Portable-0.2.4-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.5-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.5-beta/Exodus-Hub-Setup-0.2.5-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.5-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.5-beta/Exodus-Hub-Portable-0.2.5-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
-## 🚀 What's New in v0.2.4-beta
+## 🚀 What's New in v0.2.5-beta
 
 - 🎮 **Interactive Center Update Modal**: Centered prompt automatically takes focus when a new version finishes downloading, asking whether you want to restart now or postpone — fully navigable with a controller (`(A)` to restart, `(B)` to postpone).
 - ⚙️ **Unified Settings & Form Protection**: Identical 11-tab sequence across Desktop and Big Picture with instant auto-save for general options and an unsaved changes confirmation prompt when editing emulators, collections, or API keys.
@@ -33,7 +33,7 @@
 - 🚀 **Resilient Game Launching & Process Handoff**: Extended handoff tolerance (100s) for heavy launchers (e.g. EA SPORTS FC), clean tracking without accidental process kills, and reliable post-game launcher minimization.
 - 🛡️ **Library Hardening & Automatic Backup Recovery**: Hardened atomic writes with automatic backup restoration ensuring your collection and customizations are always preserved.
 - 📋 **One-Click Diagnostic Report**: Quickly copy system version, launcher detection status, and metrics to clipboard from the About tab for easy troubleshooting.
-- 🇵🇱 **Complete Polish (Polski) Localization**: Full in-app translation, flag asset, localized genres, and regional scraper support across Desktop and Big Picture.
+- 🌐 **Complete Multi-Language Support**: Full localization across all interface tabs, settings, diagnostics, genres, and regional scrapers in English, Portuguese, Spanish, and Polish.
 
 ---
 
