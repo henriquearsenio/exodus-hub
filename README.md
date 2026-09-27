@@ -4,13 +4,13 @@
 
 **The modern game launcher and frontend for PC, handhelds (ROG Ally, Legion Go, Steam Deck), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.2.10--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.11--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.2.10-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.11-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -20,16 +20,14 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.10-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.10-beta/Exodus-Hub-Setup-0.2.10-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.10-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.10-beta/Exodus-Hub-Portable-0.2.10-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.11-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.11-beta/Exodus-Hub-Setup-0.2.11-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.11-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.11-beta/Exodus-Hub-Portable-0.2.11-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
-## 🚀 What's New in v0.2.10-beta
+## 🚀 What's New in v0.2.11-beta
 
-- 🎮 **More Reliable Return to Exodus**: After a game closes, Exodus now verifies that its window and content regain focus, retrying briefly when Windows does not activate it on the first attempt. This helps restore controller input without clicking the taskbar.
-- 🧹 **Metadata and Artwork Clearing Fix**: Emptying optional text fields or removing custom artwork in the game editor now persists correctly when changes are saved.
-- 🔎 **More Complete Steam Game Metadata**: When Steam has no useful value for a field, the scraper can try GOG and Lutris as guarded fallbacks. It only fills missing fields and does not replace metadata already obtained from Steam.
+- 🛡️ **Safer Steam Metadata Matching**: Steam results are checked against the product type before use, preventing DLC such as FC Points from being applied as a game's metadata. Incomplete Steam responses are clearly reported and cannot be applied as full metadata.
 
 ---
 
