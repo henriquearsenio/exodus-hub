@@ -4,13 +4,13 @@
 
 **The modern game launcher and frontend for PC, handhelds (ROG Ally, Legion Go, Steam Deck), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.2.8--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.9--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
 
-### 📥 [Download Latest Release (v0.2.8-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.9-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -20,18 +20,18 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.8-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.8-beta/Exodus-Hub-Setup-0.2.8-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.8-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.8-beta/Exodus-Hub-Portable-0.2.8-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.9-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.9-beta/Exodus-Hub-Setup-0.2.9-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.9-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.9-beta/Exodus-Hub-Portable-0.2.9-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
-## 🚀 What's New in v0.2.8-beta
+## 🚀 What's New in v0.2.9-beta
 
-- ⚡ **Dedicated & Safe Windows Applications Execution**: Custom apps and utilities (.exe) launch cleanly without game lifecycle constraints, background watchdog threads, or session tracking.
-- 🌐 **Single-Instance Apps Compatibility**: Seamless launch for browsers (Firefox, Chrome) and tools that delegate to an existing master process, avoiding premature exit detection in Exodus.
-- 🛡️ **Zero Game Boost & No Playtime Tracking for Apps**: Applications do not interfere with CPU process priorities, do not log playtime/lastPlayed dates, and never display a *Playing* status.
-- 🖥️ **Smart Big Picture Handover & Desktop Persistence**: In Big Picture mode, Exodus smoothly minimizes once to give screen focus to the active app (without automatic restore hooks); in Desktop mode, Exodus stays open.
-- ✅ **"Done" Button in Collections Reordering**: The final button in the collections reorder modal is now clearly labeled "Done" ("Concluir") across all languages, reflecting immediate automatic saving upon every move.
+- 📁 **Unified Collections Management Modal**: Dedicated, responsive modal for managing game collections across Desktop and Big Picture with gamepad navigation, inset focus rings, smooth auto-scrolling, and instant inline collection creation.
+- 👁️ **Dynamic Category Visibility & Reordering**: Hide or reorder category tabs from the top bar with a clean empty state fallback and reliable synchronization between Desktop and Console modes.
+- 🔒 **Platform Origin Immutability**: Protected Platform field in the game editor with a lock icon and explanatory badge, preventing accidental platform changes and preserving launcher/emulator launch parameters.
+- 🔄 **Resilient Metadata Pipeline & Fallback for PC**: Automatic fallback cascade (Steam → GOG → Lutris) for PC games without requiring a SteamGridDB API key, 404 cover preservation, and elimination of false "not found" statuses.
+- ⚡ **Batch Metadata Enrichment & Emulator Auto-Scan**: Dedicated batch scraping interface with localized progress tracking, paired with resilient initial emulator discovery.
 
 ---
 
@@ -139,3 +139,4 @@ Exodus Hub is completely free and independently developed. If you enjoy using it
 <div align="center">
 Crafted for PC gamers by Henrique Arsenio.
 </div>
+
