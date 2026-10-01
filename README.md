@@ -6,6 +6,8 @@
 
 [![Release](https://img.shields.io/badge/Release-v0.2.12--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Discord](https://img.shields.io/badge/Join%20us-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PBNRBwAuF)
+[![Reddit](https://img.shields.io/badge/Join%20us-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/exodushub/)
 [![Ko-fi](https://img.shields.io/badge/Support-Ko--fi-FF5E5B.svg?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/exodushub)
 
 <br/>
