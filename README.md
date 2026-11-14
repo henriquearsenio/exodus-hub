@@ -4,7 +4,7 @@
 
 **The modern game launcher and frontend for PC, handhelds (ROG Ally, Legion Go, Steam Deck), and TV setups.**
 
-[![Release](https://img.shields.io/badge/Release-v0.2.12--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+[![Release](https://img.shields.io/badge/Release-v0.2.13--beta-orange.svg?style=for-the-badge&logo=electron)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-blue.svg?style=for-the-badge&logo=windows)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 [![Discord](https://img.shields.io/badge/Join%20us-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PBNRBwAuF)
 [![Reddit](https://img.shields.io/badge/Join%20us-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/exodushub/)
@@ -12,7 +12,7 @@
 
 <br/>
 
-### 📥 [Download Latest Release (v0.2.12-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
+### 📥 [Download Latest Release (v0.2.13-beta)](https://github.com/henriquearsenio/exodus-hub/releases/latest)
 
 </div>
 
@@ -22,17 +22,19 @@
 
 | Package | File | Details |
 |:---|:---|:---|
-| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.12-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.12-beta/Exodus-Hub-Setup-0.2.12-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
-| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.12-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.12-beta/Exodus-Hub-Portable-0.2.12-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
+| 📦 **Installer (Recommended)** | [**Exodus-Hub-Setup-0.2.13-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.13-beta/Exodus-Hub-Setup-0.2.13-beta.exe) | Standard Windows installer with Start Menu & Desktop shortcuts. Includes **automatic update notifications**. |
+| 💼 **Portable Version** | [**Exodus-Hub-Portable-0.2.13-beta.exe**](https://github.com/henriquearsenio/exodus-hub/releases/download/v0.2.13-beta/Exodus-Hub-Portable-0.2.13-beta.exe) | Standalone executable — run directly from any folder or USB drive with zero installation. |
 
 ---
 
-## 🚀 What's New in v0.2.12-beta
+## 🚀 What's New in v0.2.13-beta
 
-- 🎮 **Reliable Console Categories**: Console games keep their correct platform after restarting Exodus, even when multiple systems share an emulator. Platform categories and custom collections also filter independently.
-- 🧭 **Improved Library Navigation**: Collection bars in Desktop and Big Picture stay within the available space and keep the active category centered when possible. Secondary actions are grouped into compact menus, and controller navigation stays inside an open Big Picture menu.
-- 🌐 **Community Links**: Quick links to Discord, Reddit, and Ko-fi are available in Desktop, Big Picture, Settings, and the changelog.
-- 🧩 **Cleaner Game Editing**: The game editor shows the assigned platform without redundant read-only labels or lock icons.
+- 🎮 **Big Picture Setup**: Add games and apps from Library Tools, with controller navigation and an on-screen keyboard.
+- ⚙️ **Startup Preference Fix**: Switching modes from the interface or system tray preserves your launch-in-Big-Picture preference.
+- 🔎 **More Reliable Discovery**: Xbox discovery checks all drive letters. Launcher diagnostics distinguish complete, partial and failed scans.
+- 🧹 **Safer Library Cleanup**: Uninstall suggestions use verified libraries, preserve unavailable locations, and account for Steam leftovers and custom launch configurations.
+- ✨ **Manual Metadata Refresh**: Refresh information from game details in Desktop and Big Picture, with localized feedback.
+- 💬 **Join the Community**: The release notes screen gives our Discord a more prominent invitation for help and feedback, alongside Reddit and Ko-fi.
 
 ---
 
